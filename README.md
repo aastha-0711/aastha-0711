@@ -16,8 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aastha-garg-b38ab4257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aastha-garg-b38ab4257" height="30" width="40" /></a>
-<a href="https://kaggle.com/aastha_0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aastha_0711" height="30" width="40" /></a>
-<a href="https://instagram.com/aastha_0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aastha_0711" height="30" width="40" /></a>
+<a href="https://kaggle.com/aastha0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aastha0711" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aastha_0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aastha_0711" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aasthaga2628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aasthaga2628" height="30" width="40" /></a>
 </p>
