@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Aastha</h1>
 <h3 align="center">Web Developer | Coding Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aastha-0711&label=Profile%20views&color=0e75b6&style=flat" alt="aastha-0711" /> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=cobalt&no-frame=true&no-bg=false&margin-w=4&title=committer,repository,follower,contributor,experience" alt="Selected GitHub Trophies"/>
+</p>
 
 - 🔭 I’m currently working on building **ML and Web Development** based applications.
 
