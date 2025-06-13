@@ -7,9 +7,12 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=cobalt&no-frame=true&no-bg=false&margin-w=4&title=committer,repository,contributor,follower" alt="Selected GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=cobalt&no-frame=true&no-bg=false&margin-w=4&title=Commit,Repositories,Contributions,Followers" alt="Selected GitHub Trophies"/>
 </p>
+
 
 </p>
 
