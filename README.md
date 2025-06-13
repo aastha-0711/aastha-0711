@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on building **ML and Web Development** based applications.
 
-- 🌱 I’m currently learning **Machine Larning** through hands-on projects and Coursera.
+- 🌱 I’m currently learning **Machine Larning** through hands-on guided projects and Coursera.
 
 - 💬 Ask me about **DSA, MERN**
 
