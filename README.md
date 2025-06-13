@@ -5,8 +5,12 @@
 <h1 align="center">Hi 👋, I'm Aastha</h1>
 <h3 align="center">Web Developer | Coding Enthusiast</h3>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=cobalt&no-frame=true&no-bg=false&margin-w=4&title=committer,repository,follower,contributor,experience" alt="Selected GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=cobalt&no-frame=true&no-bg=false&margin-w=4&title=committer,repository,contributor,follower" alt="Selected GitHub Trophies"/>
+</p>
+
 </p>
 
 - 🔭 I’m currently working on building **ML and Web Development** based applications.
