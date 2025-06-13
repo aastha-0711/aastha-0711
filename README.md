@@ -4,9 +4,11 @@
 <h3 align="center">Web Developer | Coding Enthusiast</h3>
 
 
+
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs8mhi0eh1LG718u3tqAscJJ98iKiS_GoNZosoU2mSqYhL_1fQ" alt="Tech Stack Image" width="600"/>
+  <img src="https://camo.githubusercontent.com/4c7f3ffa7eb686b64003708d374f4f390b274c8b6d2b99945a0a6a6a8987d4d4/68747470733a2f2f6d706f6c696e6f77736b692e6769746875622e696f2f506572736f6e616c2f706572736f6e616c5f6173736574732f696d672f746f6f6c735f62616e6e65722e77656270" alt="Tech Stack Banner" width="800"/>
 </p>
+
 
 
 - 🔭 I’m currently working on building **ML and Web Development** based applications.
