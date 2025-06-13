@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aastha-0711&label=Profile%20views&color=0e75b6&style=flat" alt="aastha-0711" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aastha-0711" alt="aastha-0711" /></a> </p>
-
 - 🔭 I’m currently working on **ML and Web Development based application**.
 
 - 🌱 I’m currently learning **machine learning through hands-on projects and Coursera**.
