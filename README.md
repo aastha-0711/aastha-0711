@@ -5,13 +5,6 @@
 <h1 align="center">Hi 👋, I'm Aastha</h1>
 <h3 align="center">Web Developer | Coding Enthusiast</h3>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=cobalt&no-frame=true&no-bg=false&margin-w=4&title=Commit,Repositories,Contributions,Followers" alt="Selected GitHub Trophies"/>
-</p>
 
 
 </p>
@@ -24,11 +17,13 @@
 
 - 📫 How to reach me **aasthagarg0711@gmail.com**
 
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=cobalt&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=cobalt&no-frame=true&no-bg=false&margin-w=4&title=Commit,Repositories,Contributions,Followers" alt="Selected GitHub Trophies"/>
 </p>
+
 
 <h2 align="center">🌐 Socials</h2>
 
