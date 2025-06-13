@@ -1,26 +1,18 @@
-
-
 <h1 align="center">Hi 👋, I'm Aastha</h1>
 <h3 align="center">Web Developer | Coding Enthusiast</h3>
-
-
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/4c7f3ffa7eb686b64003708d374f4f390b274c8b6d2b99945a0a6a6a8987d4d4/68747470733a2f2f6d706f6c696e6f77736b692e6769746875622e696f2f506572736f6e616c2f706572736f6e616c5f6173736574732f696d672f746f6f6c735f62616e6e65722e77656270" alt="Tech Stack Banner" width="800"/>
 </p>
 
+<hr/>
 
-
-- 🔭 I’m currently working on building **ML and Web Development** based applications.
-
-- 🌱 I’m currently learning **Machine Larning** through hands-on guided projects and Coursera.
-
-- 💬 Ask me about **DSA, MERN**
-
+- 🔭 I’m currently working on building **ML and Web Development** based applications.  
+- 🌱 I’m currently learning **Machine Learning** through hands-on guided projects and Coursera.  
+- 💬 Ask me about **DSA, MERN**  
 - 📫 How to reach me **aasthagarg0711@gmail.com**
 
-
-
+<hr/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
@@ -28,7 +20,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=cobalt&no-frame=true&no-bg=false&margin-w=10&row=2&title=Commit,Repositories,Contributions,Experience,Followers" alt="GitHub Trophies"/>
 </p>
 
-
+<hr/>
 
 <h2 align="center">🌐 Socials</h2>
 
@@ -41,6 +33,8 @@
   </a>
 </p>
 
+<hr/>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -51,6 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastha-0711&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
+<hr/>
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -82,7 +77,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-
+<hr/>
 
 <h3 align="center">🔝 Top Contributed Repo</h3>
 
@@ -90,9 +85,8 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=aastha-0711&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </p>
 
+<hr/>
 
----
 [![](https://visitcount.itsvg.in/api?id=aastha-0711&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
