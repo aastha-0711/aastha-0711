@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aastha-0711&label=Profile%20views&color=0e75b6&style=flat" alt="aastha-0711" /> </p>
 
-- 🔭 I’m currently working on **ML and Web Development based application**.
+- 🔭 I’m currently working on building **ML and Web Development** based applications.
 
-- 🌱 I’m currently learning **machine learning through hands-on projects and Coursera**.
+- 🌱 I’m currently learning **Machine Larning** through hands-on projects and Coursera.
 
 - 💬 Ask me about **DSA, MERN**
 
