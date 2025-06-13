@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Aastha</h1>
 <h3 align="center">Web Developer | Coding Enthusiast</h3>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://pbs.twimg.com/community_banner_img/1513986958229446671/wiKHoYSR?format=jpg&name=orig" alt="Tech Stack" />
+</p>
 
 
 
