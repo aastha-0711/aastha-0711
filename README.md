@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/139418004?v=4" width="150" style="border-radius: 50%;" alt="Aastha's Profile Picture"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Aastha</h1>
 <h3 align="center">Web Developer | Coding Enthusiast</h3>
