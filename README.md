@@ -12,13 +12,6 @@
 - 💬 Ask me about **DSA, MERN**  
 - 📫 How to reach me **aasthagarg0711@gmail.com**
 
-<hr/>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aastha-0711" alt="aastha-0711" /></a> </p>
-
 
 <hr/>
 
