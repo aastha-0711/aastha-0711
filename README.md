@@ -16,8 +16,9 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=darkhub&no-frame=true&margin-w=15&title=Commits,Repositories,Contributions,Followers" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=gruvbox&no-frame=true&margin-w=15&title=Commits,Repositories,Contributions,Followers" />
 </p>
 
 
