@@ -17,9 +17,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aastha-0711&theme=gruvbox&no-frame=true&margin-w=15&title=Commits,Repositories,Contributions,Followers" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aastha-0711" alt="aastha-0711" /></a> </p>
 
 
 <hr/>
