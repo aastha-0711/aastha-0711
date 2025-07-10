@@ -24,7 +24,7 @@
   <a href="mailto:aasthagarg0711@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/aastha-0711/">
+  <a href="https://leetcode.com/aastha_0711/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
