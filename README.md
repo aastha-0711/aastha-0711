@@ -12,7 +12,6 @@
 - 💬 Ask me about **DSA, MERN**  
 - 📫 How to reach me **aasthagarg0711@gmail.com**
 
-
 <hr/>
 
 <h2 align="center">🌐 Socials</h2>
@@ -29,12 +28,16 @@
   </a>
 </p>
 
+<hr/>
+
+<h2 align="center">📊 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aastha_0711?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 <hr/>
-## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aastha_0711?theme=dark&font=baloo&ext=heatmap)
-<hr/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
