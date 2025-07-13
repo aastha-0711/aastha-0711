@@ -30,13 +30,7 @@
 
 <hr/>
 
-<h2 align="center">📊 LeetCode Stats</h2>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/aastha_0711?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<hr/>
 
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -51,6 +45,13 @@
 
 <hr/>
 
+<h2 align="center">📊 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aastha_0711?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<hr/>
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
