@@ -31,6 +31,10 @@
 
 
 <hr/>
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/aastha_0711?theme=dark&font=baloo&ext=heatmap)
+<hr/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
