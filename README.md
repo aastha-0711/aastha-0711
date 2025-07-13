@@ -48,7 +48,7 @@
 <h2 align="center">📊 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aastha_0711?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/aastha_0711?theme=dark&font=baloo" alt="LeetCode Stats" />
 </p>
 
 <hr/>
